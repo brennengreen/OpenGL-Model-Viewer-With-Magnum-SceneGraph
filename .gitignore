@@ -1,3 +1,10 @@
 build*/
 *.kdev4
 *~
+.idea/.gitignore
+.idea/.name
+.idea/magnum-bootstrap.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+cmake-build-debug/
